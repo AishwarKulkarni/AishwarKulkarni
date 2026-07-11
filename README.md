@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Flutter+%26+Dart+Developer;Riverpod+%2B+BLoC+%2B+Firebase;Building+PropTechBuzz+📱;Tinkering+with+AI+%26+Voice+Assistants;Jujutsu+Kaisen+Fan+😈&font=Fira%20Code&center=true&width=550&height=50&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=aishwar1320&label=Profile%20views&color=0e75b6&style=flat" alt="aishwar1320" />
-<img src="https://img.shields.io/github/followers/aishwar1320?label=Followers&style=flat&color=0e75b6" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=aishwar1320&label=Profile%20views&color=0e75b6&style=flat" alt="aishwar_kulkarni" />
+<img src="https://img.shields.io/github/followers/aishwar_kulkarni?label=Followers&style=flat&color=0e75b6" alt="followers"/>
 
 </div>
 
@@ -58,12 +58,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aishwar1320&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="aishwar1320 stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwar1320&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="aishwar1320 top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aishwar_kulkarni&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="aishwar_kulkarni stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwar_kulkarni&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="aishwar_kulkarni top languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwar1320&theme=tokyonight&hide_border=true" alt="aishwar1320 streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwar_kulkarni&theme=tokyonight&hide_border=true" alt="aishwar_kulkarni streak stats"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=aishwar1320&theme=tokyonight&no-frame=true&row=1&column=7" alt="aishwar1320 trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aishwar_kulkarni&theme=tokyonight&no-frame=true&row=1&column=7" alt="aishwar_kulkarni trophies"/>
 
 </div>
 
